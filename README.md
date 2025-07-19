@@ -22,20 +22,12 @@
 - *Visualization:* Streamlit, Tableau, Matplotlib, Seaborn
 - *ML Deployment:* Cloud-based solutions, Streamlit
 - *Other:* Data wrangling, storytelling with data, collaborative problem-solving
-
----
-
-## 📌 Featured Projects
-
-- Coming soon! (Highlight your favorite repos or link to your portfolio)
-
 ---
 
 ## 💬 Let’s Connect
 
-- 📫 Email: [gommirian88@gmail.com](mailto:gommirian88@gmail.com)
-- 🌐 Portfolio: [your portfolio link]
-- 💼 LinkedIn: [your LinkedIn link]
+- 📫 Email: [gommirian88@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/gom-brianna-mirian]
 
 ---
 
